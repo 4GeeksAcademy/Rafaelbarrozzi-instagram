@@ -1,0 +1,33 @@
+
+body{
+    margin: 0;
+    background-color: black;
+  }
+  .post {
+    margin: 0 auto;  
+    width: 700px; 
+    background-color: white;
+  }
+  .encabezado {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .icon {
+    display: flex;
+    align-items: center;
+  }
+  .perfil, .perfil i{
+    font-size: 30px;
+  }
+  .iconos{
+    font-size: 40px;
+  }
+  img{
+    width: 100%;
+  }
+  .iconos {
+    display: flex;
+    justify-content: space-between;
+  }
+  
